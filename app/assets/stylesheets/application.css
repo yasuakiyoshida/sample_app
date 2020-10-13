@@ -75,6 +75,7 @@ main {
 .list-comment {
   width: 200px;
   position: absolute;
+  left: 0;
 }
 
 .list-body {
